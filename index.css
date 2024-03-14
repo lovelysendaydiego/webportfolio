@@ -1,0 +1,30 @@
+body {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  } 
+
+h3 {
+   text-align: center;
+   font-size: 50px;
+}
+
+.card-title {
+   font-weight: bold;
+}
+
+#lovely {
+    font-family: "Caveat", cursive;
+ 
+  font-style: normal;
+}
+
+.project-card {
+    width: 23rem;
+}
+
+#map-container-google-1
+{
+    width: 22rem;
+    height: 18rem;
+}
